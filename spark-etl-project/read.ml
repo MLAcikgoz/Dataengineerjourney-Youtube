@@ -1,0 +1,70 @@
+# 🚀 Spark ETL Project Tutorial – Microsoft Fabric voor Beginners
+
+[![Watch the video](https://img.youtube.com/vi/HOwarGNMvh8/0.jpg)](https://www.youtube.com/watch?v=HOwarGNMvh8)
+
+🎥 **YouTube Video:** [Watch here](https://www.youtube.com/watch?v=HOwarGNMvh8&t=5s)
+
+---
+
+## 🇳🇱 Beschrijving (Dutch)
+
+In deze video laat ik zien hoe je een volledige **Spark ETL-pijplijn** bouwt in **Microsoft Fabric**.  
+We werken met **e-commerce data**: klantgegevens en verkoopdata.  
+
+Je leert hoe je:
+
+- 📁 CSV-bestanden uploadt naar de **Bronze-laag**  
+- 🧹 Data schoonmaakt en transformeert  
+- 🔗 Klant- en verkoopdata samenvoegt met een **join**  
+- 💾 Een **Delta Table** opslaat in de **Silver-laag**  
+
+Deze tutorial is perfect voor **beginners** die willen leren over **Data Engineering** en **Spark in Microsoft Fabric**.  
+
+💡 **Abonneer op mijn kanaal** voor meer tutorials en praktijkprojecten!  
+👉 [DataEngineerJourney op YouTube](https://www.youtube.com/@dataengineerjourney)
+
+---
+
+## 🇬🇧 English Summary
+
+In this tutorial, I demonstrate how to build a complete **Spark ETL pipeline** inside **Microsoft Fabric** using real **e-commerce data** (customers and sales).  
+
+You will learn how to:
+- Upload CSV files into the **Bronze layer**  
+- Clean and transform data  
+- Join customer and sales data  
+- Save a **Delta Table** into the **Silver layer**
+
+This is a perfect **beginner-friendly** project for learning **Data Engineering** and **Spark** in **Microsoft Fabric**.  
+
+---
+
+## 🧰 Tools & Technologies
+- Microsoft Fabric  
+- Apache Spark / PySpark  
+- Delta Lake  
+- Python  
+- Data Lakehouse concepts  
+
+---
+
+## 📂 Project Structure
+
+
+
+---
+
+## 🔖 Tags
+#SparkETL  
+#MicrosoftFabric  
+#DeltaTable  
+#DataEngineering  
+#EcommerceData  
+#BeginnerTutorial  
+#PythonSpark  
+#FabricTutorial  
+
+---
+
+📎 **LinkedIn:** [Mehmet Lütfü Açıkgöz](https://www.linkedin.com/in/mehmetlutfuacikgoz/)  
+
